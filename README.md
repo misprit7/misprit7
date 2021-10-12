@@ -6,6 +6,9 @@ My name is Xander, and I'm an Engineering Physics student at the University of B
 - ⚡ [Flight computer PCBs for the rocket](https://github.com/UBC-Rocket/WB-AV-4500-FC)
 - 🕴️ [A custom made PCB business card with a fully functioning microcontroller](https://github.com/misprit7/PCB-Business-Card)
 - ♟️ [Chess database software made with an Electron and Reacct](https://github.com/misprit7/nacbko)
+- ☣️ [A mobile app and breath monitoring device to help kids with Cystic Fibrosis](https://thebellaproject.org/)
+
+You can check out my full resume with more details [here](https://raw.githubusercontent.com/misprit7/resume/main/resume.pdf) if you're interested in what I've done. 
 
 <!--
 **misprit7/misprit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
