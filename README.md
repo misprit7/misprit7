@@ -9,4 +9,4 @@ My name is Xander, and I'm an Engineering Physics student at the University of B
 - ♟️ [Chess database software made with Electron and React](https://github.com/misprit7/nacbko)
 - ☣️ [A mobile app and breath monitoring device to help kids with Cystic Fibrosis](https://thebellaproject.org/)
 
-You can check out my full resume with more details [here]([https://raw.githubusercontent.com/misprit7/resume/main/resume.pdf](https://xander.naumenko.com/resume.pdf)) if you're interested in what I've done. 
+You can check out my full resume with more details [here](https://xander.naumenko.com/resume.pdf) if you're interested in what I've done. 
